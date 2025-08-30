@@ -92,6 +92,7 @@ The DSP package contains **7 main tasks**:
 - Python 3.x
 - Tkinter (usually included with Python)
 - NumPy
+- Math
 - Matplotlib
 - SciPy (for advanced DSP operations)
 
