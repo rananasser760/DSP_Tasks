@@ -5,11 +5,11 @@ This Python package provides a comprehensive suite of **Digital Signal Processin
 ## Features 🚀
 
 The DSP package contains **7 main tasks**:
-
 Fully interactive Tkinter GUI
 Supports file input/output for signals and coefficients
 Visualize time domain & frequency domain signals
 Handles multiple DSP tasks in one application
+
 ---
 
 ### **Task 1: Signal Generation and Display 🎵**
