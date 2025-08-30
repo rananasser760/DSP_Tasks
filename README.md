@@ -100,7 +100,7 @@ The DSP package contains **7 main tasks**:
 ## Usage 💡
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/rananasser760/DSP_Tasks.git>
 
 2. Run the main GUI application:
    python package.py
