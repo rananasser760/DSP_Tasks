@@ -23,7 +23,8 @@ The DSP package contains **7 main tasks**:
 
 ### **Task 2: Signal Operations ➕➖✖️**
 - **Addition:** Add multiple input signals and display the resulting signal.
-- **Subtraction & Multiplication:** Multiply a signal by a constant to amplify or reduce amplitude. Multiplying by `-1` inverts the signal.
+- **Subtraction:** Subtract input signals and display the resulting signal. 
+- **Multiplication:** Multiply a signal by a constant to amplify or reduce amplitude. Multiplying by `-1` inverts the signal.
 - **Squaring:** Compute the square of the input signals.
 - **Normalization:** Normalize signal values to:
   - Range [-1, 1]
