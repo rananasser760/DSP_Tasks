@@ -119,7 +119,7 @@ All tasks are interactive and designed for learning and experimenting with signa
 Ideal for students or engineers learning Digital Signal Processing.
 
 ---
-## Team Members:
+## Team Members: 🙋‍♀️
 
 ### Rana Nasser
 ### Gihad Mahmoud
