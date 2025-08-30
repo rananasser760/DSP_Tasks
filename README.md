@@ -103,7 +103,8 @@ The DSP package contains **7 main tasks**:
    git clone <https://github.com/rananasser760/DSP_Tasks.git>
 
 2. Run the main GUI application:
-   ``` python package.py
+   ```bash
+    python package.py
 
 ---
 ## Notes 💡
